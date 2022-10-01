@@ -1,0 +1,25 @@
+.headers { text-align: center; top: 1px; }
+#fIa, #fIb, #fIc {
+    position: relative;
+    width: 550px;
+    height: 650px;
+    left: 0;
+    top: 0;
+    display:inline-block;
+}
+#Ia, #Ib, #Ic {
+    position: relative;
+    width: 550px;
+    height: 650px;
+    left: 0;
+    top: 0;
+    display:inline-block;
+}
+#Ua, #Ub, #Uc {
+    position: relative;
+    width: 550px;
+    height: 650px;
+    left: 0;
+    top: 0;
+    display:inline-block;
+}
